@@ -11,7 +11,7 @@ inputs:
       description: 'The name of the image builder template resource to be used for creating and running the Image builder service.'
    build-timeout-in-minutes:
       description: 'The value is an integer which is used as timeout in minutes for running the image build.'
-      default: '240'
+      default: 240
    vm-size:
       description: 'You can override the VM size, from the default value i.e. Standard_D1_v2.'
       default: 'Standard_D1_v2'
