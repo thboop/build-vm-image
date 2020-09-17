@@ -1,5 +1,5 @@
-Name: "thisismynewnamethboop"
-Description: "Create custom virtual machine images that contain artifacts built in CI workflows" 
+Name: "Hello"
+Description: "Create custom virtual machine images that contain artifacts built in ci workflows" 
 inputs:
    #general inputs
    location:
